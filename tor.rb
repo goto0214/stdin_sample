@@ -7,5 +7,5 @@ end
 
 puts "数を出したいのは何項目ですか？"
 n = gets.to_i
-# -> 11を入力
+
 puts "#{n}項目の数字は#{tribonacci(n)}"
